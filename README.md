@@ -12,8 +12,8 @@ This project is an interactive dashboard for Tacoma and Washington State electri
 - Hosting: Free tiers (Vercel/Netlify/Firebase)  
 
 **Project Structure:**  
-/backend → Node.js / Express API
-/frontend → React dashboard
-/data → raw + cleaned CSVs
-/notebooks → Python Jupyter notebooks
-/reports → PDFs & insights
+- /backend → Node.js / Express API
+- /frontend → React dashboard
+- /data → raw + cleaned CSVs
+- /notebooks → Python Jupyter notebooks
+- /reports → PDFs & insights
